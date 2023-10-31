@@ -1,4 +1,4 @@
-# Data analysis in Python]
+# Data analysis in Python
 
 <img src='pandas.svg' width='150'>
 <img src='matplotlib.svg' width='150'>
