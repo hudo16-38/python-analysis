@@ -1,6 +1,6 @@
 # Data analysis in Python]
 
-<img src='pandas.svg' width='50'>
+<img src='pandas.svg' width='150'>
 
 ![pandas](pandas.svg)
 ![matplotlib](matplotlib.svg)
