@@ -1,5 +1,7 @@
 # Data analysis in Python]
 
+<img src='pandas.svg' width='50'>
+
 ![pandas](pandas.svg)
 ![matplotlib](matplotlib.svg)
 ![seaborn](seaborn.svg)
