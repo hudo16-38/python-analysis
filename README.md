@@ -2,7 +2,7 @@
 
 <img src='pandas.svg' width='150'> <img src='numpylogo.svg' width='150'>
 
-<img src='matplotlib.svg' width='150 > <img src='seaborn.svg' width='150'>
+<img src='matplotlib.svg' width='150> <img src='seaborn.svg' width='150'>
 
 * [Intro to Numpy](https://colab.research.google.com/drive/1H4lLbnWXekWR_-z6MWZNcNG1Gc8cMv6B)
 * [Basics of Pandas library](https://colab.research.google.com/drive/1h3SiJtU9pvmRvTkKDIWCYb7fQHE0mqOR?usp=sharing)
